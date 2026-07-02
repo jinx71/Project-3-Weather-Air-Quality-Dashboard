@@ -6,12 +6,17 @@ A responsive dashboard that combines current weather, a 5-day temperature foreca
 
 ## Live Demo
 
-🔗 [Live demo on Vercel](#) <!-- TODO: add deployed URL -->
+🔗 [Live demo on Vercel](https://project-3-weather-air-quality-dashb.vercel.app/) <!-- TODO: add deployed URL -->
 
 ## Screenshot
 
 <!-- TODO: add screenshot -->
-![AirSense dashboard screenshot](./docs/screenshot.png)
+
+**Home Page:**
+![Home Page](docs/homepage_1.png)
+
+**Different Location:**
+![Different Location](docs/Location_1.png)
 
 ## Features
 
@@ -81,16 +86,6 @@ npm run preview
 | `VITE_OWM_API_KEY` | OpenWeatherMap API key (free tier is sufficient) |
 
 > ⚠️ `VITE_`-prefixed variables are embedded in the client bundle. This is acceptable for a free-tier demo key with domain restrictions; production apps should proxy requests through a backend.
-
----
-
-## 📸 Screenshots
-
-**Home Page:**
-![Home Page](docs/homepage_1.png)
-
-**Different Location:**
-![Different Location](docs/Location_1.png)
 
 ## License
 
