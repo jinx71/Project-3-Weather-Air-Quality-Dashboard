@@ -89,7 +89,7 @@ npm run preview
 _Add screenshots here once running:_
 
 **Home Page:**
-![Home Page](docs/Homepage_1.png)
+![Home Page](docs/homepage_1.png)
 
 **Different Location:**
 ![Different Location](docs/Location_1.png)
