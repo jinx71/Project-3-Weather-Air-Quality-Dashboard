@@ -82,6 +82,19 @@ npm run preview
 
 > ⚠️ `VITE_`-prefixed variables are embedded in the client bundle. This is acceptable for a free-tier demo key with domain restrictions; production apps should proxy requests through a backend.
 
+---
+
+## 📸 Screenshots
+
+_Add screenshots here once running:_
+
+**Home Page:**
+![Home Page](docs/Homepage_1.png)
+
+**Different Location:**
+![Different Location](docs/Location_1.png)
+
+
 ## License
 
 MIT
